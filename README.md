@@ -8,7 +8,7 @@
     
 # Descripción
 
-Se puede crear una expresión matematica al instanciar la clase "Operación", a traves de los métodos numero(cadena), suma(), rest(), div(), PO(int), PC(int) se armar la expresión por ejemplo: <br />
+Se puede crear una expresión matematica al instanciar la clase "Operación", a traves de los métodos number(cadena), sum(), rest(), div(), PO(int), PC(int) se armar la expresión por ejemplo: <br />
 
 Operation op = new Operation(); <br />
 op.PO(1).number("5").mult().number("3").sum().number("2").div().number("8").PC(1); <br /> 
